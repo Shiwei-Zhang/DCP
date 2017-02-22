@@ -1,0 +1,106 @@
+.centerBox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 4.56rem;
+    height: 4.06rem;
+    margin: auto;
+    border: 0.08rem solid #05b9e2;
+    border-left: 0;
+    border-right: 0;
+    .centerSmall {
+        position: absolute;
+        width: 2.41rem;
+        height: 2.41rem;
+        overflow: hidden;
+    }
+}
+.centerD2 {
+    left: -0.77rem;
+    top: 0.395rem;
+    border-left: 0.08rem solid #05b9e2;
+    -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(30deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.centerD3 {
+    left: -0.77rem;
+    bottom: 0.395rem;
+    border-left: 0.08rem solid #05b9e2;
+    -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(-30deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.centerD4 {
+    left: 2.85rem;
+    top: 0.395rem;
+    border-right: 0.08rem solid #05b9e2;
+    -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(-30deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.centerD5 {
+    left: 2.85rem;
+    bottom: 0.395rem;
+    border-right: 0.08rem solid #05b9e2;
+    -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(30deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.centerUl {
+    width: 2rem;
+    overflow: hidden;
+    li {
+        width: 1.2rem;
+        height: 0.02rem;
+        border: 0.01rem solid #095676;
+        background-color: #095676;
+        border-radius: 0.02rem;
+    }
+    .centerSmallactiveLi {
+        height: 0.06rem;
+        border: 0.01rem solid #05b9e2;
+        background-color: #05b9e2;
+        margin-top: 0;
+    }
+}
+.centerD2 ul {
+    margin-top: 0.26rem;
+    margin-left: 0;
+    padding-left: 0.2rem;
+    li{
+        margin-top: 0.13rem; 
+        margin-left: 0;    
+    }
+   
+}
+.centerD3 ul {
+    margin-bottom: 0.26rem;
+    margin-left: 0;
+    padding-left: 0.2rem;
+    li{
+        margin-top: 0.13rem;
+        margin-left: 0;      
+    }
+     .centerSmallactiveLi{
+        margin-top: 0.13rem;
+    }
+}
+.centerD4 ul {
+    margin-top: 0.26rem;
+    margin-left: 0;
+    float: right;
+    padding-right: 0.2rem;
+    li{
+        margin-top: 0.13rem;
+        float: right;
+        
+    }
+}
+.centerD5 ul {
+    margin-bottom: 0.26rem;
+    margin-left: 0;
+     float: right;
+    padding-right: 0.2rem;
+    li{
+        margin-top: 0.13rem;
+           float: right;
+    }
+    .centerSmallactiveLi{
+        margin-top: 0.13rem;
+    }
+}

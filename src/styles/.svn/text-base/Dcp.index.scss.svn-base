@@ -1,0 +1,4 @@
+@import './module/indexBody.scss';
+@import './module/leftIndex.scss';
+@import './module/rightIndex.scss';
+@import './util/common.scss';

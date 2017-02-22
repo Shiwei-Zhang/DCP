@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/DCP/!svn/ver/19/testFekit/src/scripts/tpls
+END
+body.string
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DCP/!svn/ver/19/testFekit/src/scripts/tpls/body.string
+END
+footer.string
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DCP/!svn/ver/5/testFekit/src/scripts/tpls/footer.string
+END
+leftIndex.string
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DCP/!svn/ver/11/testFekit/src/scripts/tpls/leftIndex.string
+END
+rightIndex.string
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DCP/!svn/ver/18/testFekit/src/scripts/tpls/rightIndex.string
+END
+header.string
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DCP/!svn/ver/5/testFekit/src/scripts/tpls/header.string
+END

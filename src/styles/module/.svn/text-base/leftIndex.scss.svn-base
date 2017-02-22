@@ -1,0 +1,51 @@
+.small1{
+        position: absolute;
+      top: -256px;
+    left: -501px;
+        right: 0;
+        bottom: 0;
+        width: 2.28rem;
+        height: 2.03rem;
+        margin: auto;
+        border: 0.08rem solid #00FFFF;
+        border-left: 0;
+        border-right: 0;
+    }
+    .small2{
+      position: absolute;
+    width: 1.2rem;
+    height: 1.2rem;
+    left: -0.39rem;
+    top: 0.195rem;
+        border-left: 0.08rem solid #00FFFF;
+        -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(30deg) scaleX(1) scaleY(1) scaleZ(1);
+    }
+    .small3{
+            position: absolute;
+    width: 1.2rem;
+    height: 1.2rem;
+    left: -0.39rem;
+    bottom: 0.195rem;
+        border-left: 0.08rem solid #00FFFF;
+        -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(-30deg) scaleX(1) scaleY(1) scaleZ(1);
+    }
+    .small4{
+     
+           position: absolute;
+    width: 1.2rem;
+    height: 1.2rem;
+    left: 1.4rem;
+    top: 0.195rem;
+        border-right: 0.08rem solid #00FFFF;
+        -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(-30deg) scaleX(1) scaleY(1) scaleZ(1);
+    }
+    .small5{
+        position: absolute;
+        width: 1.2rem;
+        height: 1.2rem;
+        left: 1.42rem;
+        bottom:0.195rem;
+        border-right: 0.08rem solid #00FFFF;  
+//      background-color: red;  
+        -webkit-transform: translateX(0px) translateY(0px) translateZ(0px) rotateX(0deg) rotateY(0deg) rotateZ(30deg) scaleX(1) scaleY(1) scaleZ(1);
+    }

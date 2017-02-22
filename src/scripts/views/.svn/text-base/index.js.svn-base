@@ -1,0 +1,15 @@
+var $=require('../utils/jquery-3.1.1.min.js');
+var common = require('../utils/common.util.js');
+var str   = require('../tpls/body.string');
+var left  = require('../tpls/leftIndex.string');
+var right = require('../tpls/rightIndex.string');
+$(function(){
+	common.renderBody($('body'), str);
+	$('#box').append(right);
+	common.append($('#box'), left);
+	common.append($('#box'), right);
+})
+
+//common.renderBody($('body'), str);
+//common.append($('.container'), header);
+//common.append($('.container'), footer);
